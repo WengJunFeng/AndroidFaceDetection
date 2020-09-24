@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidFaceDetection</string>
+    <string name="detect_images">DETECT IMAGES</string>
+</resources>
