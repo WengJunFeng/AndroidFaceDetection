@@ -76,6 +76,7 @@ class MainActivity : AppCompatActivity(), com.example.androidfacedetection.scree
         if (requestCode == MY_CAMERA_REQUEST_CODE) {
             if (grantResults[0] == PackageManager.PERMISSION_GRANTED) {
                 Toast.makeText(this, "camera permission granted", Toast.LENGTH_LONG).show()
+                launchVisionPerceptor()
             } else {
                 Toast.makeText(this, "camera permission denied", Toast.LENGTH_LONG).show()
             }
