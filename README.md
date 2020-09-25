@@ -19,3 +19,4 @@ https://github.com/wadva474/AndroidFaceDetection/releases/download/v1.0/app-rele
 - Create a new Pull Request
 
 # SCREENSHOT 
+![Sample Screen](imagery/device-2020-09-24-202150.png)
